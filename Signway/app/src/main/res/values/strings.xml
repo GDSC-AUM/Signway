@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Signway</string>
+    <string name = "sign1">Learn Sign Language</string>
+    <string name = "sign2"> Sign Alphabets</string>
+    <string name = "sign3"> Sign Words</string>
+    <string name = "sign4"> Sign phrases</string>
+    <string name = "MenuTitle">Start Learning now</string>
+</resources>
