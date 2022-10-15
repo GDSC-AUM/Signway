@@ -7,7 +7,8 @@ Signway is an interactive app aimed to help users learn the basics of sign langu
 - Minimum SDK level 21
 - 100% Kotlin based
 - JetPack Compose- A Modern Native toolkit for Android developement.
-- Material Design & Animations
+  - Jetpack Compose Navigation
+  - Jetpack Compose UI
 
 
 # Demo 📱
